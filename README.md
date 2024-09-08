@@ -1,0 +1,1 @@
+This project consists of a simple calculator made by a begginer. 
